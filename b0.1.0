@@ -1,5 +1,9 @@
 {"crr_ver":"0.1.0",
 "link":"",
 "msg":"Update Available!",
-"btn_txt":"Update"
+"btn_txt":"Update",
+"patch_ver":"0.2.0",
+"pck_url":"",
+"msg2":"",
+"btn_txt2":""
 }
