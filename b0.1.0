@@ -3,7 +3,7 @@
 "msg":"Update Available!",
 "btn_txt":"Install",
 "patch_ver":"0.2.0",
-"pck_url":"",
+"pck_url":"https://github.com/wrenchtype/upforeverapi/raw/main/pck_updates/0.2.0/0.2.0.pck",
 "msg2":"Patch Available!",
 "btn_txt2":"Update"
 }
