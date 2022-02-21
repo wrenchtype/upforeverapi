@@ -2,8 +2,8 @@
 "link":"https://play.google.com/store/apps/details?id=com.wrenchtype.upf",
 "msg":"Update Available!",
 "btn_txt":"Install",
-"patch_ver":"0.2.2",
-"pck_url":"https://github.com/wrenchtype/upforeverapi/raw/main/pck_updates/0.2.0/u0.2.2.pck",
+"patch_ver":"0.2.3",
+"pck_url":"https://github.com/wrenchtype/upforeverapi/raw/main/pck_updates/u0.2.3.pck",
 "msg2":"Patch Available!",
 "btn_txt2":"Update"
 }
